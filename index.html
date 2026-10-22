@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI创制中心看板</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div style="max-width: 1600px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
+      <div>
+        <h1>AI创制中心看板</h1>
+        <p class="text-muted" style="font-size: 13px; margin-top: 4px;">实时追踪项目进度与人员工作状态</p>
+      </div>
+      <button class="btn btn-secondary" onclick="refreshData()">🔄 刷新数据</button>
+    </div>
+  </header>
+
+  <div class="app-container" id="mainContent">
+    <div class="loading"><div class="spinner"></div>加载中...</div>
+  </div>
+
+  <!-- Modal Container -->
+  <div class="modal-overlay hidden" id="modal">
+    <div class="modal-content" id="modalContent">
+      <div class="modal-header">
+        <div class="modal-title" id="modalTitle">详情</div>
+        <div class="modal-close" id="closeModal">&times;</div>
+      </div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="js/github.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
