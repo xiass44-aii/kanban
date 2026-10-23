@@ -627,19 +627,6 @@
       "updatedBy": "(1830697675111735)"
     },
     {
-      "id": 45,
-      "name": "艾格",
-      "branch": 1,
-      "role": 3,
-      "saturation": "full",
-      "miaodaUserId": "1872465656378505",
-      "employeeType": "试用",
-      "createdAt": "2026-08-04T07:19:07.000Z",
-      "createdBy": "(1830697675111735)",
-      "updatedAt": "2026-08-04T07:19:07.000Z",
-      "updatedBy": "(1830697675111735)"
-    },
-    {
       "id": 46,
       "name": "凉果",
       "branch": 3,
