@@ -406,19 +406,6 @@
       "updatedBy": "()"
     },
     {
-      "id": 28,
-      "name": "墨岚",
-      "branch": 4,
-      "role": 3,
-      "saturation": "full",
-      "miaodaUserId": null,
-      "employeeType": "X3",
-      "createdAt": "2026-07-16T07:18:01.000Z",
-      "createdBy": "()",
-      "updatedAt": "2026-07-16T07:18:01.000Z",
-      "updatedBy": "()"
-    },
-    {
       "id": 30,
       "name": "荔枝言",
       "branch": 1,
