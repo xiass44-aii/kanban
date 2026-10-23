@@ -651,6 +651,18 @@
       "createdBy": "(1830697707028548)",
       "updatedAt": "2026-09-03T09:24:26.000Z",
       "updatedBy": "(1830697707028548)"
+    },
+    {
+      "id": 47,
+      "name": "西江月",
+      "branch": 2,
+      "role": 3,
+      "saturation": "full",
+      "employeeType": "正式",
+      "createdAt": "2026-10-23T02:45:47.061Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-10-23T02:45:47.061Z",
+      "updatedBy": "github-app"
     }
   ],
   "projects": [
