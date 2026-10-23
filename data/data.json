@@ -624,6 +624,18 @@
       "createdBy": "github-app",
       "updatedAt": "2026-10-23T02:45:47.061Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 48,
+      "name": "潘子",
+      "branch": 4,
+      "role": 3,
+      "saturation": "full",
+      "employeeType": "X3",
+      "createdAt": "2026-10-23T07:06:54.518Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-10-23T07:06:54.518Z",
+      "updatedBy": "github-app"
     }
   ],
   "projects": [
