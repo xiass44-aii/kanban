@@ -255,6 +255,7 @@ function renderProjects() {
               <th style="width: 80px;">平台</th>
               <th style="width: 80px;">商务</th>
               <th style="width: 90px;">项目经理</th>
+              <th style="width: 70px;">时长</th>
               <th style="width: 160px;">成员</th>
               <th style="width: 180px;">开始 / 上线</th>
               <th style="min-width: 200px;">最新进度</th>
@@ -282,6 +283,7 @@ function renderProjects() {
                     <td class="text-muted">${p.platform || '-'}</td>
                     <td class="text-muted">${p.business || '-'}</td>
                     <td class="text-muted">${p.projectManager || '-'}</td>
+                    <td style="font-size: 12px; color: #475569; font-weight: 500;">${p.duration || '-'}</td>
                     <td title="${memberFull}" style="font-size: 12px; color: #64748b; cursor: help;">
                       ${memberDisplay}
                     </td>
