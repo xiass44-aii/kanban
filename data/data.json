@@ -1486,20 +1486,22 @@
     },
     {
       "id": 40,
-      "name": "字节跳动春之花角色动画",
+      "name": "字节跳动角色动画",
       "status": "inprogress",
-      "startDate": "2026-09-06T16:00:00.000Z",
-      "endDate": "2026-10-09T16:00:00.000Z",
+      "startDate": "2026-09-06",
+      "endDate": "2026-12-31",
       "members": [
+        8,
         9,
         11,
         14,
         16,
-        8,
-        26
+        18,
+        26,
+        47
       ],
       "platform": "游戏",
-      "business": "1855103098420362",
+      "business": "梅子",
       "deadline": null,
       "duration": "短视频(≤60s)",
       "branch": 3,
@@ -1508,7 +1510,7 @@
       "createdBy": "(1830697707028548)",
       "updatedAt": "2026-09-08T05:50:17.000Z",
       "updatedBy": "(1830697707028548)",
-      "projectManager": null
+      "projectManager": "八喜"
     },
     {
       "id": 41,
