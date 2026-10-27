@@ -1560,9 +1560,9 @@
     {
       "id": 43,
       "name": "沐瞳AI测试",
-      "status": "prescheduled",
-      "startDate": "2026-10-25T16:00:00.000Z",
-      "endDate": "2026-11-29T16:00:00.000Z",
+      "status": "paused",
+      "startDate": "2026-10-25",
+      "endDate": "2026-11-29",
       "members": [],
       "platform": null,
       "business": "砍砍",
