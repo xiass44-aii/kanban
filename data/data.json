@@ -2861,6 +2861,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-10-27T07:06:34.264Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 117,
+      "projectId": 42,
+      "week": "w43",
+      "content": "1. 本周内部出第一版策划方案，下周先和张总内部对齐后再上立项会",
+      "risk": null,
+      "createdAt": "2026-10-27T07:10:35.214Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-10-27T07:10:35.214Z",
+      "updatedBy": "github-app"
     }
   ]
 }
