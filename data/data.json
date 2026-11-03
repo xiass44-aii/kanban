@@ -1628,7 +1628,7 @@
       "business": "长风",
       "projectManager": null,
       "duration": "3-5min",
-      "isCase": false,
+      "isCase": true,
       "createdAt": "2026-11-03T07:12:02.278Z",
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:12:02.278Z",
