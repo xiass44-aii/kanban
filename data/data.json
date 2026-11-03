@@ -1633,6 +1633,24 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:12:02.278Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 47,
+      "name": "谷围AIQ版小剧场",
+      "status": "presale",
+      "branch": 1,
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-06",
+      "members": [],
+      "platform": "平台",
+      "business": "长风",
+      "projectManager": null,
+      "duration": "30min",
+      "isCase": false,
+      "createdAt": "2026-11-03T07:14:00.034Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:14:00.034Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
