@@ -2872,6 +2872,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-10-27T07:10:35.214Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 118,
+      "projectId": 42,
+      "week": "w45",
+      "content": "本周先和张总同步收入和支出分配情况后拉老板会议",
+      "risk": null,
+      "createdAt": "2026-11-03T07:04:58.083Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:04:58.083Z",
+      "updatedBy": "github-app"
     }
   ]
 }
