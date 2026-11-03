@@ -1432,9 +1432,9 @@
     {
       "id": 38,
       "name": "金领冠奶粉ip升级",
-      "status": "inprogress",
-      "startDate": "2026-08-22T16:00:00.000Z",
-      "endDate": "2026-09-02T16:00:00.000Z",
+      "status": "delivered",
+      "startDate": "2026-08-22",
+      "endDate": "2026-09-02",
       "members": [
         8,
         14,
