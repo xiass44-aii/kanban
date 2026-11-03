@@ -2977,6 +2977,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:12:32.701Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 124,
+      "projectId": 21,
+      "week": "w43",
+      "content": "新增外包镜头回收",
+      "risk": null,
+      "createdAt": "2026-11-03T07:13:14.533Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:13:14.533Z",
+      "updatedBy": "github-app"
     }
   ]
 }
