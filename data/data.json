@@ -909,13 +909,12 @@
     {
       "id": 15,
       "name": "和平精英AI漫剧",
-      "status": "inprogress",
-      "startDate": "2026-04-30T16:00:00.000Z",
-      "endDate": "2026-08-30T16:00:00.000Z",
+      "status": "delivered",
+      "startDate": "2026-04-30",
+      "endDate": "2026-08-30",
       "members": [
-        1,
-        16,
         14,
+        16,
         17,
         39,
         41,
