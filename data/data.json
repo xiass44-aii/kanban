@@ -1651,6 +1651,24 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:14:00.034Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 48,
+      "name": "跨界广告案例",
+      "status": "prescheduled",
+      "branch": 3,
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-30",
+      "members": [],
+      "platform": null,
+      "business": null,
+      "projectManager": null,
+      "duration": "30s",
+      "isCase": true,
+      "createdAt": "2026-11-03T07:20:59.192Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:20:59.192Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
