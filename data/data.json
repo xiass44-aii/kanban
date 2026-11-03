@@ -1593,6 +1593,28 @@
       "createdBy": "github-app",
       "updatedAt": "2026-10-27T07:01:45.635Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 45,
+      "name": "FF烈焰cg",
+      "status": "prescheduled",
+      "branch": 1,
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-06",
+      "members": [
+        16,
+        21,
+        24
+      ],
+      "platform": "游戏",
+      "business": "砍砍",
+      "projectManager": null,
+      "duration": "2个镜头",
+      "isCase": false,
+      "createdAt": "2026-11-03T07:10:15.645Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:10:15.645Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
