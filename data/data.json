@@ -3006,6 +3006,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:13:14.533Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 125,
+      "projectId": 47,
+      "week": "w45",
+      "content": "30分钟小剧场整包，本周需报价。除去编剧外，从导演-美术-生成-剪辑-项目经理",
+      "risk": null,
+      "createdAt": "2026-11-03T07:14:52.755Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:14:52.755Z",
+      "updatedBy": "github-app"
     }
   ]
 }
