@@ -2905,6 +2905,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:06:32.740Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 121,
+      "projectId": 40,
+      "week": "w45",
+      "content": "7条已交付2条，本周全部交付。",
+      "risk": null,
+      "createdAt": "2026-11-03T07:06:55.234Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:06:55.234Z",
+      "updatedBy": "github-app"
     }
   ]
 }
