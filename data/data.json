@@ -2937,6 +2937,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:06:55.234Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 122,
+      "projectId": 45,
+      "week": "w45",
+      "content": "二维镜头外包风险，客户不满意效果，用AI重新出，修改设定重做镜头",
+      "risk": null,
+      "createdAt": "2026-11-03T07:11:05.603Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-03T07:11:05.603Z",
+      "updatedBy": "github-app"
     }
   ]
 }
