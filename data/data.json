@@ -1686,7 +1686,7 @@
       "platform": "游戏",
       "business": "泡芙",
       "projectManager": null,
-      "duration": null,
+      "duration": "30s",
       "isCase": false,
       "createdAt": "2026-11-10T06:20:21.634Z",
       "createdBy": "github-app",
