@@ -3124,6 +3124,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T07:09:58.864Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 132,
+      "projectId": 21,
+      "week": "w46",
+      "content": "1.新增26集镜头回收\n2.其他风险镜头等项目组评估。",
+      "risk": null,
+      "createdAt": "2026-11-10T07:10:35.787Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T07:10:35.787Z",
+      "updatedBy": "github-app"
     }
   ]
 }
