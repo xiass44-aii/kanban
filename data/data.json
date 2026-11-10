@@ -3113,6 +3113,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T07:08:27.984Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 131,
+      "projectId": 32,
+      "week": "w46",
+      "content": "1. 提高清晰度，直出1080p及以上精度\n2.加戏，剧本已调整，当前补充设定。\n3.预计延期到下周交片。",
+      "risk": null,
+      "createdAt": "2026-11-10T07:09:58.864Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T07:09:58.864Z",
+      "updatedBy": "github-app"
     }
   ]
 }
