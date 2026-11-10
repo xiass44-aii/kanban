@@ -1669,6 +1669,29 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:20:59.192Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 49,
+      "name": "春节财神",
+      "status": "inprogress",
+      "branch": 3,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-23",
+      "members": [
+        8,
+        9,
+        18,
+        30
+      ],
+      "platform": "游戏",
+      "business": "泡芙",
+      "projectManager": null,
+      "duration": null,
+      "isCase": false,
+      "createdAt": "2026-11-10T06:20:21.634Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T06:20:21.634Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
