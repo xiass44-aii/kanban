@@ -3102,6 +3102,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T07:06:55.861Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 130,
+      "projectId": 40,
+      "week": "w46",
+      "content": "1. 7条交付2条。\n2. 现在客户反复扣细节，导致流量费超支。（一条2-3k）已和商务反馈增加预算",
+      "risk": null,
+      "createdAt": "2026-11-10T07:08:27.984Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T07:08:27.984Z",
+      "updatedBy": "github-app"
     }
   ]
 }
