@@ -3069,6 +3069,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-03T07:21:38.424Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 127,
+      "projectId": 47,
+      "week": "w46",
+      "content": "已报价，等人空下来先测试。",
+      "risk": null,
+      "createdAt": "2026-11-10T07:05:01.919Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T07:05:01.919Z",
+      "updatedBy": "github-app"
     }
   ]
 }
