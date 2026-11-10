@@ -3080,6 +3080,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T07:05:01.919Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 128,
+      "projectId": 46,
+      "week": "w46",
+      "content": "1. 故事方向已调整\n2. 美术找参考图\n3.AI生成人员等神话三国结束后再开始",
+      "risk": null,
+      "createdAt": "2026-11-10T07:06:11.725Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-10T07:06:11.725Z",
+      "updatedBy": "github-app"
     }
   ]
 }
