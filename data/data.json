@@ -252,7 +252,7 @@
     {
       "id": 12,
       "name": "维生素",
-      "branch": 3,
+      "branch": 1,
       "role": 3,
       "saturation": "full",
       "miaodaUserId": null,
