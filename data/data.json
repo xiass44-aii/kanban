@@ -3159,6 +3159,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:07:19.329Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 135,
+      "projectId": 42,
+      "week": "W47",
+      "content": "1. 立项完成，且有收入。收入分配方式需财务和张总对。",
+      "risk": null,
+      "createdAt": "2026-11-17T07:08:46.895Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:08:46.895Z",
+      "updatedBy": "github-app"
     }
   ]
 }
