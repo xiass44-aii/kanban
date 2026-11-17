@@ -1694,6 +1694,26 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T06:20:21.634Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 50,
+      "name": "冠冠熊IP运营视频",
+      "status": "prescheduled",
+      "branch": 3,
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-31",
+      "members": [
+        46
+      ],
+      "platform": "跨界",
+      "business": "闪闪",
+      "projectManager": "阿松",
+      "duration": null,
+      "isCase": false,
+      "createdAt": "2026-11-17T07:14:02.026Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:14:02.026Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
