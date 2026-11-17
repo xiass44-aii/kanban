@@ -3148,6 +3148,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:06:53.612Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 134,
+      "projectId": 46,
+      "week": "W47",
+      "content": "1.今天设定确认\n2.下周提交5分钟成片",
+      "risk": null,
+      "createdAt": "2026-11-17T07:07:19.329Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:07:19.329Z",
+      "updatedBy": "github-app"
     }
   ]
 }
