@@ -3192,6 +3192,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:10:27.715Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 138,
+      "projectId": 32,
+      "week": "W47",
+      "content": "1.修改部分已完成，新增镜头制作中。\n2.准备量产方案，内部建立标准流程做分享。",
+      "risk": null,
+      "createdAt": "2026-11-17T07:11:32.767Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:11:32.767Z",
+      "updatedBy": "github-app"
     }
   ]
 }
