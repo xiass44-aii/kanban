@@ -3181,6 +3181,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:09:26.365Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 137,
+      "projectId": 40,
+      "week": "W47",
+      "content": "1. 已交付4条，1条特效修改客户已回收，剩下2条还在修改，暂时没定交付时间。",
+      "risk": null,
+      "createdAt": "2026-11-17T07:10:27.715Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:10:27.715Z",
+      "updatedBy": "github-app"
     }
   ]
 }
