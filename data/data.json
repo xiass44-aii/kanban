@@ -3137,6 +3137,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-10T07:10:35.787Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 133,
+      "projectId": 47,
+      "week": "W47",
+      "content": "1. 预计12月中旬开始做设定",
+      "risk": null,
+      "createdAt": "2026-11-17T07:06:53.612Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-17T07:06:53.612Z",
+      "updatedBy": "github-app"
     }
   ]
 }
