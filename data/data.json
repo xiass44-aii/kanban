@@ -3244,6 +3244,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:11:32.767Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 139,
+      "projectId": 46,
+      "week": "W48",
+      "content": "1.本周初出版，下周二之前修改完成交付。",
+      "risk": "当前产出不达标，内部还没有跑通流程和标准。边做边磨合。",
+      "createdAt": "2026-11-24T07:06:53.925Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:06:53.925Z",
+      "updatedBy": "github-app"
     }
   ]
 }
