@@ -1776,6 +1776,33 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:14:32.700Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 54,
+      "name": "科创局保密视频",
+      "status": "delivered",
+      "branch": 3,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-24",
+      "members": [
+        8,
+        12,
+        13,
+        14,
+        16,
+        21,
+        23,
+        24
+      ],
+      "platform": "政企",
+      "business": "大发",
+      "projectManager": "八喜",
+      "duration": "4min",
+      "isCase": false,
+      "createdAt": "2026-11-24T07:16:41.298Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:16:41.298Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
