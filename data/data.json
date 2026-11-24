@@ -3277,6 +3277,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:08:42.950Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 142,
+      "projectId": 32,
+      "week": "W48",
+      "content": "1. 客户主推保我们过会 \n2.表演及制作要求会更高，配音音乐音效会外包\n3.导演更换，后续讲标人选待定。方案优化中。",
+      "risk": null,
+      "createdAt": "2026-11-24T07:10:57.811Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:10:57.811Z",
+      "updatedBy": "github-app"
     }
   ]
 }
