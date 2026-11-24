@@ -3351,6 +3351,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:13:24.971Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 145,
+      "projectId": 53,
+      "week": "W48",
+      "content": "售前方案筹备中，12月中旬比稿。会做1-2min片段demo",
+      "risk": null,
+      "createdAt": "2026-11-24T07:15:09.688Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:15:09.688Z",
+      "updatedBy": "github-app"
     }
   ]
 }
