@@ -1756,6 +1756,26 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:12:12.442Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 53,
+      "name": "一念永恒三维混制番剧",
+      "status": "prescheduled",
+      "branch": 2,
+      "startDate": "2026-12-14",
+      "endDate": "2027-02-01",
+      "members": [
+        9
+      ],
+      "platform": "平台",
+      "business": "长风",
+      "projectManager": "知知",
+      "duration": "长篇",
+      "isCase": false,
+      "createdAt": "2026-11-24T07:14:32.700Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:14:32.700Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
