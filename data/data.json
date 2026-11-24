@@ -3266,6 +3266,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:07:42.069Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 141,
+      "projectId": 40,
+      "week": "W48",
+      "content": "1.还剩2条，2条都在修改中",
+      "risk": "客户没有明确的交付时间",
+      "createdAt": "2026-11-24T07:08:42.950Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:08:42.950Z",
+      "updatedBy": "github-app"
     }
   ]
 }
