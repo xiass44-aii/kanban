@@ -3309,6 +3309,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:10:57.811Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 143,
+      "projectId": 52,
+      "week": "W48",
+      "content": "1. 售前策划案阶段，初版方案基本完成，不需要比稿。和客户聊具体的制作方案。",
+      "risk": null,
+      "createdAt": "2026-11-24T07:13:02.363Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:13:02.363Z",
+      "updatedBy": "github-app"
     }
   ]
 }
