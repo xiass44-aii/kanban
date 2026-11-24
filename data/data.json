@@ -1714,6 +1714,27 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-17T07:14:02.026Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 51,
+      "name": "VIVO光遇AI短片",
+      "status": "prescheduled",
+      "branch": 3,
+      "startDate": "2026-11-25",
+      "endDate": "2026-12-11",
+      "members": [
+        6,
+        8
+      ],
+      "platform": "跨界",
+      "business": "闪闪",
+      "projectManager": "八喜",
+      "duration": "2min",
+      "isCase": false,
+      "createdAt": "2026-11-24T07:05:47.688Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:05:47.688Z",
+      "updatedBy": "github-app"
     }
   ],
   "weeklyProgress": [
