@@ -3320,6 +3320,17 @@
       "createdBy": "github-app",
       "updatedAt": "2026-11-24T07:13:02.363Z",
       "updatedBy": "github-app"
+    },
+    {
+      "id": 144,
+      "projectId": 51,
+      "week": "W48",
+      "content": "已报价，等商务确认后启动。",
+      "risk": null,
+      "createdAt": "2026-11-24T07:13:24.971Z",
+      "createdBy": "github-app",
+      "updatedAt": "2026-11-24T07:13:24.971Z",
+      "updatedBy": "github-app"
     }
   ]
 }
